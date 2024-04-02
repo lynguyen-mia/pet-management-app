@@ -9,5 +9,5 @@ This application provides a comprehensive and user-friendly platform for pet own
 - Advanced Pet Search: Search for pets based on various criteria, such as ID, name, species, breed.
   
 ##Tech Stack:
-JavaScript: ES6+
-Data Storage: local storage.
+- JavaScript: ES6+
+- Data Storage: local storage.
