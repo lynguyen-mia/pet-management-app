@@ -8,6 +8,6 @@ This application provides a comprehensive and user-friendly platform for pet own
 - Data Download: Download pet information as a file (e.g., JSON) for offline access or backup purposes.
 - Advanced Pet Search: Search for pets based on various criteria, such as ID, name, species, breed.
   
-##Tech Stack:
+## Tech Stack:
 - JavaScript: ES6+
 - Data Storage: local storage.
